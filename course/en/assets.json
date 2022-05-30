@@ -1,0 +1,441 @@
+{
+  "772be23c47071704668a4bf8912b17b141a16867.svg": {
+    "title": "lifecycle_fix.svg",
+    "description": "analytical lifecycle",
+    "tags": [
+      {
+        "title": "analytical_team",
+        "_id": "6086efc64e98473e7dc59e93"
+      }
+    ]
+  },
+  "90152f1fc037b5f0df3d5eb4e53349868878603d.png": {
+    "title": "retail_sales_graph",
+    "description": "retail sales line graph",
+    "tags": [
+      {
+        "title": "analysis",
+        "_id": "61386b844e98473e7dc5a83e"
+      },
+      {
+        "title": "analysis101",
+        "_id": "61386b884e98473e7dc5a83f"
+      }
+    ]
+  },
+  "eddf24b0be4ac542c16e9efd6810db8ebc8e45ce.png": {
+    "title": "AF logo_quarter.png",
+    "description": "smaller af logo",
+    "tags": [
+      {
+        "title": "analytical_team",
+        "_id": "6086efc64e98473e7dc59e93"
+      }
+    ]
+  },
+  "f44e0e0df60400857e84bd1a5f9a02303fa21ca2.png": {
+    "title": "AF logo_3_16ths.png",
+    "description": "3 16ths size analysis function logo",
+    "tags": [
+      {
+        "title": "analytical_team",
+        "_id": "6086efc64e98473e7dc59e93"
+      }
+    ]
+  },
+  "7ac488ebf56ebf44c852b176f8dc23166a7ded8c.png": {
+    "title": "AF_brain.png",
+    "description": "different roles of the analysis function coming together as one brain",
+    "tags": []
+  },
+  "e30f90b21ffb771b865d6e20e6398b653bb150a2.jpg": {
+    "title": "scott-graham-OQMZwNd3ThU-unsplash (1).jpg",
+    "description": "planning",
+    "tags": [
+      {
+        "title": "planning",
+        "_id": "61d55cd54e98473e7dc5ae52"
+      },
+      {
+        "title": "writing",
+        "_id": "61d55cd54e98473e7dc5ae53"
+      }
+    ]
+  },
+  "ec17941ecc3991c09344ecfbae0dfe3273add0dc.png": {
+    "title": "food-standards-agency-logo.png",
+    "description": "Food standards agency logo",
+    "tags": [
+      {
+        "title": "analysis",
+        "_id": "61386b844e98473e7dc5a83e"
+      },
+      {
+        "title": "analysis101",
+        "_id": "61386b884e98473e7dc5a83f"
+      },
+      {
+        "title": "foodstandardsagency",
+        "_id": "61d818194e98473e7dc5af08"
+      },
+      {
+        "title": "logo",
+        "_id": "61d818334e98473e7dc5af09"
+      },
+      {
+        "title": "analytical_team",
+        "_id": "6086efc64e98473e7dc59e93"
+      }
+    ]
+  },
+  "a55dda733cf9aab8b825e514ac8a8d610ab90fbf.png": {
+    "title": "CPI.png",
+    "description": "a graphic example of time series data using the consumer prices index",
+    "tags": [
+      {
+        "title": "economics",
+        "_id": "61dc03ac4e98473e7dc5af34"
+      },
+      {
+        "title": "timeseries",
+        "_id": "61dc03af4e98473e7dc5af35"
+      },
+      {
+        "title": "analysis",
+        "_id": "61386b844e98473e7dc5a83e"
+      },
+      {
+        "title": "analysis101",
+        "_id": "61386b884e98473e7dc5a83f"
+      },
+      {
+        "title": "analytical_team",
+        "_id": "6086efc64e98473e7dc59e93"
+      }
+    ]
+  },
+  "43508e7c4aad38e5f710422c63495791602458ed.png": {
+    "title": "ons_dfe.png",
+    "description": "office for national statistics and department for education logos",
+    "tags": [
+      {
+        "title": "analysis101",
+        "_id": "61386b884e98473e7dc5a83f"
+      },
+      {
+        "title": "analytical_team",
+        "_id": "6086efc64e98473e7dc59e93"
+      },
+      {
+        "title": "ons",
+        "_id": "61dc09674e98473e7dc5af3a"
+      },
+      {
+        "title": "dfe",
+        "_id": "61dc096a4e98473e7dc5af3b"
+      }
+    ]
+  },
+  "78e95b5c468e9230a496fdd8683dea5ad034ba71.jpg": {
+    "title": "energy_efficiency_ratings.jpg",
+    "description": "woman writing on an energy efficiency rating",
+    "tags": [
+      {
+        "title": "analysis101",
+        "_id": "61386b884e98473e7dc5a83f"
+      },
+      {
+        "title": "analysis",
+        "_id": "61386b844e98473e7dc5a83e"
+      },
+      {
+        "title": "analytical_team",
+        "_id": "6086efc64e98473e7dc59e93"
+      },
+      {
+        "title": "energyefficiency",
+        "_id": "61e529af4e98473e7dc5b057"
+      }
+    ]
+  },
+  "bbb3669b3432ba7d3e6a9ba495df04698eaa8fe7.svg": {
+    "title": "mis_pie.svg",
+    "description": "misleading 3D pie chart",
+    "tags": [
+      {
+        "title": "analysis",
+        "_id": "61386b844e98473e7dc5a83e"
+      },
+      {
+        "title": "analysis101",
+        "_id": "61386b884e98473e7dc5a83f"
+      },
+      {
+        "title": "analytical_team",
+        "_id": "6086efc64e98473e7dc59e93"
+      }
+    ]
+  },
+  "a2dac88704c263afd784fdf2932466aa212b5770.svg": {
+    "title": "mis_bar_chart.svg",
+    "description": "misleading bar chart due to axes scale cut off",
+    "tags": [
+      {
+        "title": "analysis",
+        "_id": "61386b844e98473e7dc5a83e"
+      },
+      {
+        "title": "analysis101",
+        "_id": "61386b884e98473e7dc5a83f"
+      },
+      {
+        "title": "analytical_team",
+        "_id": "6086efc64e98473e7dc59e93"
+      }
+    ]
+  },
+  "3bd06cf80cc054cf66e62b84a96cf43706c86cce.svg": {
+    "title": "bar_chart.svg",
+    "description": "bar chart showing employment rate for each UK country",
+    "tags": [
+      {
+        "title": "analysis",
+        "_id": "61386b844e98473e7dc5a83e"
+      },
+      {
+        "title": "analysis101",
+        "_id": "61386b884e98473e7dc5a83f"
+      },
+      {
+        "title": "analytical_team",
+        "_id": "6086efc64e98473e7dc59e93"
+      }
+    ]
+  },
+  "01f18d94b0439af8e27597b219abf083fe80703b.svg": {
+    "title": "GES_logo.svg",
+    "description": "government economic service logo",
+    "tags": [
+      {
+        "title": "analysis",
+        "_id": "61386b844e98473e7dc5a83e"
+      },
+      {
+        "title": "analysis101",
+        "_id": "61386b884e98473e7dc5a83f"
+      },
+      {
+        "title": "analytical_team",
+        "_id": "6086efc64e98473e7dc59e93"
+      }
+    ]
+  },
+  "150afd52bb536191915274d0a16c96090c439c17.svg": {
+    "title": "GAD_logo.svg",
+    "description": "government actuary department logo",
+    "tags": [
+      {
+        "title": "analysis",
+        "_id": "61386b844e98473e7dc5a83e"
+      },
+      {
+        "title": "analysis101",
+        "_id": "61386b884e98473e7dc5a83f"
+      },
+      {
+        "title": "analytical_team",
+        "_id": "6086efc64e98473e7dc59e93"
+      }
+    ]
+  },
+  "c9d7dc4fa53bec0daf6cda394302dc12f140cc30.svg": {
+    "title": "GORS_logo.svg",
+    "description": "government operational research service logo\r\n",
+    "tags": [
+      {
+        "title": "analysis",
+        "_id": "61386b844e98473e7dc5a83e"
+      },
+      {
+        "title": "analysis101",
+        "_id": "61386b884e98473e7dc5a83f"
+      },
+      {
+        "title": "analytical_team",
+        "_id": "6086efc64e98473e7dc59e93"
+      }
+    ]
+  },
+  "4191079e0df8a1b0f1920c50bf8da5d267e9c422.svg": {
+    "title": "GSR_logo.svg",
+    "description": "government social research service logo",
+    "tags": [
+      {
+        "title": "analysis",
+        "_id": "61386b844e98473e7dc5a83e"
+      },
+      {
+        "title": "analysis101",
+        "_id": "61386b884e98473e7dc5a83f"
+      },
+      {
+        "title": "analytical_team",
+        "_id": "6086efc64e98473e7dc59e93"
+      }
+    ]
+  },
+  "a90b7a8f7d70887517cc80c5b69402ba749e942b.svg": {
+    "title": "ggp_logo.svg",
+    "description": "government geography profession logo",
+    "tags": [
+      {
+        "title": "analysis",
+        "_id": "61386b844e98473e7dc5a83e"
+      },
+      {
+        "title": "analysis101",
+        "_id": "61386b884e98473e7dc5a83f"
+      },
+      {
+        "title": "analytical_team",
+        "_id": "6086efc64e98473e7dc59e93"
+      }
+    ]
+  },
+  "82f4270dd50ebb3f2214f2880183c01ac0f01093.svg": {
+    "title": "gss_logo.svg",
+    "description": "government statistical service logo",
+    "tags": []
+  },
+  "086c1b061d12209a6fcf77b3e25583be0315dcff.png": {
+    "title": "analytical function standard.png",
+    "description": "government functional standard for analysis",
+    "tags": [
+      {
+        "title": "analysis101",
+        "_id": "61386b884e98473e7dc5a83f"
+      },
+      {
+        "title": "analytical_team",
+        "_id": "6086efc64e98473e7dc59e93"
+      },
+      {
+        "title": "analysis",
+        "_id": "61386b844e98473e7dc5a83e"
+      }
+    ]
+  },
+  "4b9727d1e69ccb358878e9f9403bb785429759dd.svg": {
+    "title": "pie chart.svg",
+    "description": "pie chart depicting favourite colour with data labels and title ",
+    "tags": [
+      {
+        "title": "analysis",
+        "_id": "61386b844e98473e7dc5a83e"
+      },
+      {
+        "title": "analysis101",
+        "_id": "61386b884e98473e7dc5a83f"
+      },
+      {
+        "title": "analytical_team",
+        "_id": "6086efc64e98473e7dc59e93"
+      }
+    ]
+  },
+  "c9139e2cd37f9f28c11bbac08ec681bcc01da76c.svg": {
+    "title": "percent_one.svg",
+    "description": "depicting data on unemployment, Year 1 is 4 percent or 1,364,000 and Year 2 is 5 percent or 1,705,000",
+    "tags": [
+      {
+        "title": "analysis101",
+        "_id": "61386b884e98473e7dc5a83f"
+      },
+      {
+        "title": "analytical",
+        "_id": "62224334e3d6f509c9f2c515"
+      },
+      {
+        "title": "analytical_team",
+        "_id": "6086efc64e98473e7dc59e93"
+      }
+    ]
+  },
+  "e6680c9fed0912fd9b60c84eb8b8fd9602c79948.svg": {
+    "title": "percent_two.svg",
+    "description": "percentage point change visual depiction",
+    "tags": [
+      {
+        "title": "analysis",
+        "_id": "61386b844e98473e7dc5a83e"
+      },
+      {
+        "title": "analytical",
+        "_id": "62224334e3d6f509c9f2c515"
+      },
+      {
+        "title": "analytical_team",
+        "_id": "6086efc64e98473e7dc59e93"
+      }
+    ]
+  },
+  "eca85402929c0d8ff1b4c78100a90027c8282ddb.svg": {
+    "title": "percent_three.svg",
+    "description": "visual depiction of year 1 and 2 raw figures/numbers",
+    "tags": [
+      {
+        "title": "analysis",
+        "_id": "61386b844e98473e7dc5a83e"
+      },
+      {
+        "title": "analytical",
+        "_id": "62224334e3d6f509c9f2c515"
+      },
+      {
+        "title": "analytical_team",
+        "_id": "6086efc64e98473e7dc59e93"
+      }
+    ]
+  },
+  "03878481f509c7a43df6f466b4a44a7e4e1bff5c.svg": {
+    "title": "percent_four.svg",
+    "description": "visual calculations as an image as listed in text",
+    "tags": [
+      {
+        "title": "analysis",
+        "_id": "61386b844e98473e7dc5a83e"
+      },
+      {
+        "title": "analytical",
+        "_id": "62224334e3d6f509c9f2c515"
+      },
+      {
+        "title": "analytical_team",
+        "_id": "6086efc64e98473e7dc59e93"
+      }
+    ]
+  },
+  "8c49f5193867c4cbcf6becd144a8046c21442360.png": {
+    "title": "daily_mail_example.png",
+    "description": "line graph from a daily mail article stating that there have not been significant fluctuations in global temperature between 1997 and 2012",
+    "tags": [
+      {
+        "title": "analysis",
+        "_id": "61386b844e98473e7dc5a83e"
+      },
+      {
+        "title": "analysis101",
+        "_id": "61386b884e98473e7dc5a83f"
+      },
+      {
+        "title": "analytical",
+        "_id": "62224334e3d6f509c9f2c515"
+      }
+    ]
+  },
+  "2a26c0ad8f0cc273f8c1b92d6f7d8f00d3812081.png": {
+    "title": "met_office_example.png",
+    "description": "met office global temperature data between 1850 and 2018",
+    "tags": []
+  }
+}
